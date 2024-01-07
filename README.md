@@ -3,8 +3,8 @@
 This Python script bulk converts GIF files to MP4 format using FFmpeg, a popular multimedia framework.
 
 ## Prerequisites
-Python 3: Ensure you have Python 3 installed on your system.
-FFmpeg: Make sure FFmpeg is installed and added to your system's PATH.
+1. Python 3: Ensure you have Python 3 installed on your system.
+2. FFmpeg: Make sure FFmpeg is installed and added to your system's PATH.
 ## Getting Started
 
 1. Clone the Repository: Clone or download this repository to your local machine.
