@@ -1,6 +1,6 @@
 # GIF to MP4 Converter using FFmpeg
 
-This Python script bulk converts GIF files to MP4 format using FFmpeg, a popular multimedia framework.
+This simple Python script bulk converts GIF files to MP4 format using FFmpeg, a popular multimedia framework.
 
 ## Prerequisites
 1. Python 3: Ensure you have Python 3 installed on your system.
@@ -9,11 +9,11 @@ This Python script bulk converts GIF files to MP4 format using FFmpeg, a popular
 
 1. Clone the Repository: Clone or download this repository to your local machine.
 2. Install Dependencies: No additional Python packages are required beyond the standard library.
-3. Prepare GIFs: Place the GIFs you want to convert in single folder.
-4. Run the Script: Execute the gif_to_mp4_converter.py file and follow the instructions.
+3. Prepare GIFs: Place the GIFs you want to convert in a single folder.
+4. Run the Script: Execute the main.py file and follow the instructions.
 ## Usage
 
-Run the script gif_to_mp4_converter.py.
+Run the script main.py.
 Input the file path where the GIFs are located when prompted.
 The script will convert all GIFs in the specified folder to MP4 format using FFmpeg.
 ## Additional Notes
@@ -21,6 +21,7 @@ The script will convert all GIFs in the specified folder to MP4 format using FFm
 This script utilizes the os, subprocess, and ffmpeg modules in Python.
 Ensure the GIFs are in the designated folder and have the .gif extension.
 Converted MP4 files will be saved in the same folder with the same filenames but with the .mp4 extension.
-Disclaimer
+
+**Disclaimer**
 
 Always ensure you have the necessary rights and permissions to convert and use the files.
